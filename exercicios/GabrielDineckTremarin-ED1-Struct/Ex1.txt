@@ -1,0 +1,4 @@
+//Gabriel Dineck Tremarin
+
+Os tipos estruturados ajudam bastante na organização e legibilidade do código e evitam
+a declaração um monte de variáveis diferentes. No exercício 4 isso fica bem claro.

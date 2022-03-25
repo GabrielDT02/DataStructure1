@@ -1,0 +1,13 @@
+Elemento;ID
+Vassoura;012
+Caderno;011
+Juliana Paes;010
+Avestruz;009
+Alicate;008
+Cerveja;007
+Rapadura;006
+Pasta de dente;005
+Batata;004
+Cadeira;003
+Reginaldo Rossi;002
+Abacate;001

@@ -1,0 +1,6 @@
+Codigo:Nome:Saldo
+90:Neide Gaga:90.000    
+45:Gabriel Lindo E Maravilhoso:-99.999
+78:Lindolfo Abelardo Neto:300.00
+19:Ethelvina Vasleska Jucylleine da Silva:500.000
+34:Marciano Verdinho das Antenas Longas:0.000000
