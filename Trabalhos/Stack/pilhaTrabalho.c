@@ -1,7 +1,4 @@
 /*
-Nome: Gabriel Dineck Tremarin
-Matrícula: 2110102351
-
 Esse programa tem o objetivo de empilhar absolutamente qualquer coisa.
 */
 

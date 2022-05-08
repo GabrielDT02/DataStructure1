@@ -1,4 +1,3 @@
-//Gabriel Dineck Tremarin
 
 #include<stdio.h>
 #include<stdlib.h>
